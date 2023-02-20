@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Mobile Developer
 ----------------
 
-I have been learning to code for 2 years, after switching careers. I started with Java, explored full stack development and found a passion for native mobile development. I am excited to be part of the change that technology is bringing to the world, one app at a time.
+I have been rediscovering my passion for coding in the last 2 years, after switching careers. I started with Java, explored full stack development and found a passion for native mobile development. I am excited to be part of the change that technology is bringing to the world, one app at a time.
 
 * 🌍  I'm based in Montréal
 * ✉️  You can contact me at [draghici.andreea.12b@gmail.com](mailto:draghici.andreea.12b@gmail.com)
