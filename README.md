@@ -8,7 +8,7 @@ I have been rediscovering my passion for coding in the last 2 years, after switc
 
 * 🌍  I'm based in Montréal
 * ✉️  You can contact me at [draghici.andreea.12b@gmail.com](mailto:draghici.andreea.12b@gmail.com)
-* 🧠  I'm learning Jetpack Compose
+* 🧠  I'm learning Kotlin and Jetpack Compose
 * 🤝  I'm open to collaborating on projects
 
 ### Skills
